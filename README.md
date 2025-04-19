@@ -54,8 +54,8 @@ Analyze file signatures using tools like file, binwalk, or xxd to check for inco
   
   ![image](https://github.com/user-attachments/assets/3fdd3aa0-37c2-42c2-8440-3e23c9b9814c)
 
-
-### Step 5: Extract the Embedded Secret from the Image
+## OUTPUT:
+### Step 1: Extract the Embedded Secret from the Image
   •	To retrieve the hidden file:
   
   ![image](https://github.com/user-attachments/assets/71100795-e4a7-491b-a005-80eb3c1cf1bd)
@@ -64,8 +64,8 @@ Analyze file signatures using tools like file, binwalk, or xxd to check for inco
   
   ![image](https://github.com/user-attachments/assets/55a3d6cb-6606-40dc-ae53-2a385ecd63da)
 
-## OUTPUT:
-### Step 1: Verify the Extracted Message
+
+### Step 2: Verify the Extracted Message
 
   •	Display the extracted file content to verify:
   
@@ -78,7 +78,7 @@ Analyze file signatures using tools like file, binwalk, or xxd to check for inco
   ![image](https://github.com/user-attachments/assets/5e478ee7-baae-4b20-b2c3-8ed1b41f3d69)
 
  
-### Step 2: Retrieve Information About the Embedded Data
+### Step 3: Retrieve Information About the Embedded Data
   •	To gather details about embedded content in the image:
   
   ![image](https://github.com/user-attachments/assets/2a559d4f-e5e2-4567-9573-aa1e6ce873af)
